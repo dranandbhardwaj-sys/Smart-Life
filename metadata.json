@@ -1,0 +1,6 @@
+{
+  "name": "Smart Life",
+  "description": "Smart Life — AI-powered personal productivity and everyday life management PWA web application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

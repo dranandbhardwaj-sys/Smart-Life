@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <defs>
+    <linearGradient id="sl-bg" x1="12" y1="8" x2="116" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0D9488"/>
+      <stop offset="55%" stop-color="#14B8A6"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="sl-shine" x1="24" y1="20" x2="104" y2="108" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="116" height="116" rx="30" fill="url(#sl-bg)"/>
+  <rect x="6" y="6" width="116" height="116" rx="30" fill="url(#sl-shine)"/>
+  <!-- Compass / Sparkle Ring -->
+  <circle cx="64" cy="64" r="34" stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="4"/>
+  <!-- Stylized Check / Life Leaf -->
+  <path d="M44 65.5L57.5 79L85 49.5" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- AI Spark -->
+  <path d="M90 27L92.7 34.3L100 37L92.7 39.7L90 47L87.3 39.7L80 37L87.3 34.3L90 27Z" fill="#FDE68A"/>
+</svg>
